@@ -99,14 +99,14 @@ project/
 ├── Telecom Customer Churn Prediction.ipynb
 │
 └── README.md
-
+```
 ---
 
 ## 🎥 Demo
 
 ![App Demo](assets/Demo.gif)
 
-
+---
 
 ## ▶️ How to Run Project
 
