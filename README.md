@@ -106,7 +106,7 @@ project/
 
 ![App Demo](assets/Demo.gif)
 
----
+
 
 ## ▶️ How to Run Project
 
